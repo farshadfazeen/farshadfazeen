@@ -128,9 +128,11 @@ Some of the projects I'll be showcasing include:
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=farshadfazeen&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=farshadfazeen&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400"
     alt="M Farshad GitHub Stats"
   />
 </p>
