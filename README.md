@@ -13,15 +13,15 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Completed an **HND in Computing (Software)**
-- 💼 Completed a **Software Development Internship at Nexora**
-- 💻 Interested in **Software Development, Web Development, Mobile Development, and Data**
-- 🚀 Currently preparing and publishing my software projects on GitHub
-- 🌱 Currently improving my **Git, GitHub, and modern development workflow**
-- ⚛️ Built personal projects using **React and React Native**
-- 💬 Ask me about **Python, Java, C#, JavaScript, SQL, and software development**
-- 🎯 Currently seeking **entry-level software development opportunities**
-- 📫 Reach me at **farshadfazeen7@gmail.com**
+-  Completed an **HND in Computing (Software)**
+-  Completed a **Software Development Internship at Nexora**
+-  Interested in **Software Development, Web Development, Mobile Development, and Data**
+-  Currently preparing and publishing my software projects on GitHub
+-  Currently improving my **Git, GitHub, and modern development workflow**
+-  Built personal projects using **React and React Native**
+-  Ask me about **Python, Java, C#, JavaScript, SQL, and software development**
+-  Currently seeking **entry-level software development opportunities**
+-  Reach me at **farshadfazeen7@gmail.com**
   
 Entry-Level Software Developer focused on building practical software, web applications, and data-driven solutions.
 
@@ -29,7 +29,7 @@ Entry-Level Software Developer focused on building practical software, web appli
 
 ---
 
-## 🛠️ Languages and Technologies
+##  Languages and Technologies
 
 ### Programming
 
@@ -110,19 +110,19 @@ Entry-Level Software Developer focused on building practical software, web appli
 
 ---
 
-## 📂 Projects
+##  Projects
 
 I'm currently organizing and publishing my academic and personal projects.
 
 Some of the projects I'll be showcasing include:
 
-- 💼 **Payroll Management System** - Java & MySQL
-- 🎓 **Student Management System** - C# & Microsoft SQL Server
-- 🚚 **Shipment Management System** - Python & Data Structures
-- 🎮 **Eclipse Arena** - HTML, CSS & JavaScript
-- 📊 **Business Intelligence Dashboard** - Power BI
-- 📱 **Learnova** - UI/UX Mobile App Prototype in Figma
-- ⚛️ **React & React Native Personal Projects**
+-  **Payroll Management System** - Java & MySQL
+-  **Student Management System** - C# & Microsoft SQL Server
+-  **Shipment Management System** - Python & Data Structures
+-  **Eclipse Arena** - HTML, CSS & JavaScript
+-  **Business Intelligence Dashboard** - Power BI
+-  **Learnova** - UI/UX Mobile App Prototype in Figma
+-  **React & React Native Personal Projects**
 
 > Project repositories, documentation, screenshots, and demos are being added progressively.
 
@@ -130,7 +130,7 @@ Some of the projects I'll be showcasing include:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img
