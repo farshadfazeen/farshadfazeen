@@ -24,6 +24,7 @@
 - 📫 Reach me at **farshadfazeen7@gmail.com**
   
 Entry-Level Software Developer focused on building practical software, web applications, and data-driven solutions.
+
 🌐 **Portfolio:** [farshad-portfolio-beta.vercel.app](https://farshad-portfolio7.vercel.app/)
 
 ---
@@ -156,7 +157,9 @@ Some of the projects I'll be showcasing include:
 
 
 🌐 **Portfolio:** [farshad-portfolio-beta.vercel.app](https://farshad-portfolio7.vercel.app/)
+
 🔗 **LinkedIn:** [linkedin.com/in/m-farshad-9048853b3](https://www.linkedin.com/in/m-farshad-9048853b3)
+
 📧 **Email:** farshadfazeen7@gmail.com
 
 ---
