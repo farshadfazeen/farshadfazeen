@@ -126,24 +126,13 @@ Some of the projects I'll be showcasing include:
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farshadfazeen&theme=github_dark"
-    alt="M Farshad GitHub Profile Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farshadfazeen&theme=github_dark"
-    alt="M Farshad GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farshadfazeen&theme=github_dark"
-    alt="M Farshad Languages"
+    alt="M Farshad GitHub Profile Details"
+    width="100%"
   />
 </p>
 
