@@ -22,6 +22,7 @@
 - 💬 Ask me about **Python, Java, C#, JavaScript, SQL, and software development**
 - 🎯 Currently seeking **entry-level software development opportunities**
 - 📫 Reach me at **farshadfazeen7@gmail.com**
+- 🌐 **Portfolio:** [farshad-portfolio-beta.vercel.app](https://farshad-portfolio-beta.vercel.app/)
 
 ---
 
